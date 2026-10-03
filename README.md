@@ -7,7 +7,7 @@
 
 
 ## Git
-at least these commands: [git-commands](https://github.com/dobisel/essentials/blob/master/git-commands.md)
+at least these commands: [git-commands](./git-commands.md)
 
 
 ## 10 finger typing
@@ -67,7 +67,3 @@ We follow the [Nomanclature](https://en.wikipedia.org/wiki/Nomenclature) for the
 
 
 ## Markdown
-
-
-## Backend roadmap
-[backend-roadmap](https://github.com/dobisel/essentials/blob/master/backend-roadmap.md)
