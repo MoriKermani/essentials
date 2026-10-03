@@ -7,7 +7,7 @@
 
 
 ## Git
-at least these commands: [git-commands](https://github.com/dobisel/essentials/blob/master/git-commands.md)
+at least these commands: [git-commands](./git-commands.md)
 
 
 ## 10 finger typing
@@ -26,6 +26,16 @@ type `vimtutor` in the commandline, you can see simple vim commands to learn.
 ## Concepts
 - Solid principle
 - Zen of python
+
+
+## Rules
+
+- At the start and end of every workday, update all Kanbans.
+- During meetings, should be speak on topics one by one.
+- Always take your next task from the Kanban.
+- We never become dependent on any service.
+- Providing one or more solution(s) when no problem(s) is/are not described
+  yet is not allowed.
 
 
 ## Naming
@@ -57,7 +67,3 @@ We follow the [Nomanclature](https://en.wikipedia.org/wiki/Nomenclature) for the
 
 
 ## Markdown
-
-
-## Backend roadmap
-[backend-roadmap](https://github.com/dobisel/essentials/blob/master/backend-roadmap.md)
